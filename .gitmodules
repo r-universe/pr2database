@@ -13,3 +13,8 @@
 	url = https://github.com/pr2database/metapr2-shiny
 	shallow = true
 	registered = true
+[submodule "blaster"]
+	path = blaster
+	url = https://github.com/manutamminen/blaster
+	shallow = true
+	registered = false
