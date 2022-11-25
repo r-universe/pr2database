@@ -4,5 +4,11 @@
     "url": "https://github.com/manutamminen/blaster",
     "via": ["metapr2"],
     "from": "metapr2"
+  },
+  {
+    "package": "blaster",
+    "url": "https://github.com/manutamminen/blaster",
+    "via": ["pr2database"],
+    "from": "pr2database"
   }
 ]
