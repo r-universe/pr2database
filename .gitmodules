@@ -1,20 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/pr2database/universe
-	shallow = true
 	branch = HEAD
-[submodule "pr2database"]
-	path = pr2database
-	url = https://github.com/pr2database/pr2database
-	shallow = true
-	registered = true
-[submodule "metapr2"]
-	path = metapr2
-	url = https://github.com/pr2database/metapr2-shiny
-	shallow = true
-	registered = true
 [submodule "blaster"]
 	path = blaster
 	url = https://github.com/manutamminen/blaster
-	shallow = true
 	registered = false
+[submodule "metapr2"]
+	path = metapr2
+	url = https://github.com/pr2database/metapr2-shiny
+[submodule "pr2database"]
+	path = pr2database
+	url = https://github.com/pr2database/pr2database
