@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pr2database/universe
+	url = https://github.com/pr2database/pr2database.r-universe.dev
 	branch = HEAD
 [submodule "blaster"]
 	path = blaster
