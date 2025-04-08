@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/pr2database/pr2database.r-universe.dev
 	branch = HEAD
-[submodule "blaster"]
-	path = blaster
-	url = https://github.com/manutamminen/blaster
-	registered = false
 [submodule "metapr2"]
 	path = metapr2
 	url = https://github.com/pr2database/metapr2-shiny
